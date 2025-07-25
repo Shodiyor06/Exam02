@@ -1,5 +1,8 @@
-ism = input("ism: ")
-familya = input("familya: ")
-sharif = input("sharif: ")
+fish = input("FISH kiriting: ") 
+parts = fish.split()  
 
-print(f"{ism} {sharif}, {familya}")
+familiya = parts[0]
+ism_sharif = ' '.join(parts[1:])
+
+natija = f"{ism_sharif}, {familiya}"
+print(natija)
