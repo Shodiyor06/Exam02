@@ -1,0 +1,1 @@
+bahosi eng yuqori uqivchi:  [['Ali', '5'], ['Hasan', '5'], ['Madina', '5'], ['Diyorbek', '5'], ['Kamola', '5'], ['Lola', '5']]
